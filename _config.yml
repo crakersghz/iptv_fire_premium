@@ -1,38 +1,55 @@
+title: FIRE PLUS IPTV PREMIUM
+description: >-
+  Profitez de nos meilleurs chaines IPTV avec l’option time-shift inclus
+  (Chaines de télévision avec un decalage temporel de temps de diffusion normal)
 
-# SEO
-title: Athena Jekyll Theme
-description: A simple and elegant theme for Jekyll and GitHub Pages.
 
-# social
+  Une Playlist de + 4500 chaînes internationales & 11000 vidéos à la demande en
+  Français(Films, séries, documentaires, anime,sport …etc) en HD et Full HD et
+  4K
+
+  EPG et Logos inclus
+
+  Serveurs stable, haute disponibilité pas de coupures.
+
+
+  Une Playlist de + 4500 chaînes internationales & 11000 vidéos à la demande en
+  Français(Films, séries, documentaires,enfants, anime,sport …etc) en HD et Full
+  HD et 94 films en 4K
+
+  Chaines disponibles: France , Belgique, Suisse, Espagne, Portugal, Italie,
+  Allemagne, Pays Bas, Roumanie, Albanie, Russie Arabe, UK , Latino, Tuquie,
+  USA, Canada, Afrique, Inde, Pakistan
+
+  EPG et Logos inclus
+
+  Abonnement iptv compatible avec : Les Smart TV Samsung & LG (SMART IPTV,
+  SSiptv), Smart TV Sony Android, Apple TV .., les boitiers MAG, PC/MAC,
+  smartphones et Android TV Box ..
+
+  Serveurs stable, haute disponibilité pas de coupures (Load balancing)
+
+  Meilleur prix et Assistance 7/7
 social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
+social_username: FIRE PLUS IPTV PREMIUM
+github_repo: ''
+github_username: crakersghz
 theme_color: light
-
-# Theme
-remote_theme: 'internet-de-france/athena'
-baseurl: '/iptv_fire_premium'
-
-# Defaults
-
+remote_theme: ''
+baseurl: /iptv_fire_premium
 defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
+  - scope:
+      path: ''
+      type: pages
     values:
-      category_name: ""
-  -
-    scope:
-      path: ""
-      type: "posts"
+      category_name: ''
+  - scope:
+      path: ''
+      type: posts
     values:
-      categories: ""
-
-# Stastic UI
-remote_theme_layouts: 
-  - ""
+      categories: ''
+remote_theme_layouts:
+  - ''
   - default
   - page
   - post
@@ -43,7 +60,6 @@ social_links:
   - instagram
   - medium
   - dribbble
-
 theme_colors:
   - light
   - black
@@ -54,5 +70,3 @@ theme_colors:
   - red
   - white
   - yellow
-
-
